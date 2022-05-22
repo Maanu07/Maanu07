@@ -1,3 +1,4 @@
+<img align="center" src="https://github.com/Maanu07/Maanu07/blob/main/thumbnail.png?raw=true" alt="manas joshi"  />
 <h1 align="center">Hi 👋, I'm Manas Joshi</h1>
 <h3 align="center">A passionate software developer from India. I am 22 years old Computer Science Engineer.</h3>
 
